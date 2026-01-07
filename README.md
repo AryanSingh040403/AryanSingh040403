@@ -1,6 +1,6 @@
 # Aryan Singh
 
-**AIML Graduate | Machine Learning & Generative AI Engineer (LLMs, NLP, RAG)**  
+**AIML Eng. Graduate | Machine Learning & Generative AI Engineer (LLMs, NLP, RAG)**  
 Building intelligent, data-driven systems with a focus on Large Language Models, NLP pipelines, and applied Deep Learning.
 
 ---
