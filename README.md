@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Aryan Singh
 
-<!--
-**AryanSingh040403/AryanSingh040403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AIML Graduate | 🤖 Machine Learning & Generative AI Engineer  
+💡 Passionate about building intelligent systems using LLMs, NLP, and Deep Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- AIML graduate with strong foundations in **Machine Learning, Deep Learning, and NLP**
+- Hands-on experience in **LLMs, fine-tuning, RAG pipelines, and end-to-end ML projects**
+- Comfortable with **research-oriented code, experimentation, and production-ready pipelines**
+- Actively improving through **open-source contributions and advanced projects**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`Python`, `SQL`
+
+**ML / DL:**  
+`PyTorch`, `TensorFlow`, `scikit-learn`, `XGBoost`
+
+**NLP / GenAI:**  
+`Transformers`, `Hugging Face`, `LLMs`, `LoRA`, `PEFT`, `RAG`, `FAISS`
+
+**Data & Tools:**  
+`NumPy`, `Pandas`, `Matplotlib`, `Seaborn`
+
+**MLOps & Dev:**  
+`Git`, `GitHub`, `Docker`, `Linux`, `Colab`
+
+---
+
+## 📌 Featured Projects
+🔹 **YouTube Video Title & Tags Generator (NLP)**  
+🔹 **LLM Fine-Tuning for Medical MCQ Question Answering**  
+🔹 **Intelligent Voice Assistant (LLM + Speech)**  
+🔹 **Global Pollution Analysis & Energy Recovery**
+
+➡️ Check pinned repositories below 👇
+
+---
+
+## 🌱 Currently Learning
+- Advanced LLM Fine-Tuning Techniques  
+- Retrieval-Augmented Generation (RAG)  
+- MLOps & Model Deployment  
+- Open-Source Collaboration
+
+---
+
+## 🤝 Open to
+- Open-source contributions
+- Research & engineering collaborations
+- AIML / GenAI opportunities
+
+---
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+- 🤗 Hugging Face: https://huggingface.co/YOUR-USERNAME
+
