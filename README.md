@@ -83,5 +83,5 @@ Data-driven analysis of global pollution trends with predictive modeling and act
 
 ## Contact
 - 📧 Email: **aryansingh20030404@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+- 💼 LinkedIn: https://www.linkedin.com/in/aryansingh0404/
 - 🤗 Hugging Face: https://huggingface.co/YOUR-USERNAME
