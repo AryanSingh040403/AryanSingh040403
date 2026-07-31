@@ -6,7 +6,7 @@ Building intelligent, data-driven systems with a focus on Large Language Models,
 ---
 
 ## About Me
-- AIML graduate with strong foundations in **Machine Learning, Deep Learning, and Natural Language Processing**
+- CSE(AIML) graduate with strong foundations in **Machine Learning, Deep Learning, and Natural Language Processing**
 - Hands-on experience designing and fine-tuning **LLM-based systems**, including **RAG pipelines** and end-to-end ML workflows
 - Comfortable working with **research-oriented code** and translating ideas into **production-ready solutions**
 - Actively growing through **open-source contributions** and advanced applied AI projects
